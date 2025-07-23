@@ -2,8 +2,6 @@
 
 This is my project I implmented to provides practical implementations and theoretical insights into **Cryptography in Network Security**, covering both **symmetric** and **asymmetric encryption algorithms**, as well as **hash functions**. The goal is to demonstrate encryption, decryption, and integrity verification using various classical and modern cryptographic techniques.
 
----
-
 ### 📁 Contents
 
 * `waggari_Additive Cipher.ipynb` – Symmetric cipher using modular addition
@@ -13,7 +11,6 @@ This is my project I implmented to provides practical implementations and theore
 * `waggari_RSA.ipynb` – Asymmetric encryption using RSA
 * `waggari_Hash Functions.ipynb` – Hashing with SHA-256 and integrity check
 
----
 
 ### 🧪 Implemented Algorithms
 
@@ -61,7 +58,6 @@ This is my project I implmented to provides practical implementations and theore
    * Application: Password security, digital integrity, blockchain
    * Note: Irreversible by design – verified via recomputation
 
----
 
 ### 📌 Project Goals
 
@@ -70,11 +66,10 @@ This is my project I implmented to provides practical implementations and theore
 * Show that **decrypted message exactly matches original plaintext**
 * Highlight use-cases and application areas for each algorithm
 
----
 
 ### 🧭 How to Use
 
-1. Clone or download the project
+1. Clone https://github.com/Wagarimisganu-github/Cryptograpy-in-Network-Security.git
 2. Install dependencies:
 
    ```bash
@@ -83,10 +78,9 @@ This is my project I implmented to provides practical implementations and theore
 3. Open each `.ipynb` notebook in Jupyter
 4. Run cells and provide input as prompted
 
----
 
 ### 🔭 Future Work
-
+### My future direction is on:
 * ✅ Add **CBC, GCM modes** for AES/DES for improved security
 * ✅ Implement **Elliptic Curve Cryptography (ECC)** for modern key exchange
 * ✅ Integrate **digital signatures** using RSA and hashing
@@ -95,15 +89,13 @@ This is my project I implmented to provides practical implementations and theore
 * ✅ Build a **GUI app** or web interface for real-time encryption tasks
 * ✅ Add timing and performance analysis for each algorithm
 
----
-
 
 ### 🙌 Author
 
 ### Waggari Misganu Ebsa
-\[Your contact info or GitHub profile]
+### Github link:
 #### Email: wagarimisganu12@gmail.com
 ### Linkedin: https://www.linkedin.com/in/waggari-misganu-ebsa-352601317
-###Ialso Appriceate Mrs Aster Takele for her Contribution
+### I also Appriceate Mrs Aster Takele for her Contribution
 #### Aknowledgmnets
-  Special Thanks to Dr Naol B (PHD).
+ ### Special Thanks to Dr Naol B (PHD).
