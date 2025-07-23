@@ -92,10 +92,10 @@ This is my project I implmented to provides practical implementations and theore
 
 ### 🙌 Author
 
-### Waggari Misganu Ebsa
-### Github link:
+### Waggari Misganu Ebsa, Certified in Cyber Security.
+### Github link: https://github.com/Wagarimisganu-github
 #### Email: wagarimisganu12@gmail.com
 ### Linkedin: https://www.linkedin.com/in/waggari-misganu-ebsa-352601317
-### I also Appriceate Mrs Aster Takele for her Contribution
+ I also Appriceate **Mrs Aster Takele** for her Contribution
 #### Aknowledgmnets
- ### Special Thanks to Dr Naol B (PHD).
+ Special Thanks to **Dr Naol B (PHD)**.
